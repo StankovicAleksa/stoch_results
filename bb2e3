@@ -1,0 +1,65 @@
+./dist/Debug/GNU-Linux-x86/stochastic_adaptive_time_stepping
+
+-------------------   Monte Carlo Info   -------------------
+Number of iterations: 100000000
+SDE solver: SROCK2
+Test number: 1
+Time step size: 0.125
+Time-step adaptivity enabled.
+Brownian motion: discrete.
+Absolute tolerance = 0.002
+Relative tolerance = 0.002
+------------------------------------------------------------
+
+-----------------   Running Monte Carlo   ------------------
+Monte Carlo iterations at 1.000%
+Monte Carlo iterations at 2.000%
+Monte Carlo iterations at 3.000%
+Monte Carlo iterations at 4.000%
+Monte Carlo iterations at 5.000%
+Monte Carlo iterations at 6.000%
+Monte Carlo iterations at 7.000%
+Monte Carlo iterations at 8.000%
+Monte Carlo iterations at 9.000%
+Monte Carlo iterations at 10.000%
+Monte Carlo iterations at 11.000%
+Monte Carlo iterations at 12.000%
+Monte Carlo iterations at 13.000%
+Monte Carlo iterations at 14.000%
+Monte Carlo iterations at 15.000%
+Monte Carlo iterations at 16.000%
+Monte Carlo iterations at 17.000%
+Monte Carlo iterations at 18.000%
+Monte Carlo iterations at 19.000%
+Monte Carlo iterations at 20.000%
+Monte Carlo iterations at 21.000%
+Monte Carlo iterations at 22.000%
+Monte Carlo iterations at 23.000%
+Monte Carlo iterations at 24.000%
+Monte Carlo iterations at 25.000%
+Monte Carlo iterations at 26.000%
+Monte Carlo iterations at 27.000%
+Monte Carlo iterations at 28.000%
+Monte Carlo iterations at 29.000%
+Monte Carlo iterations at 30.000%
+Monte Carlo iterations at 31.000%
+Monte Carlo iterations at 32.000%
+Monte Carlo iterations at 33.000%
+Monte Carlo iterations at 34.000%
+Monte Carlo iterations at 35.000%
+Monte Carlo iterations at 36.000%
+Monte Carlo iterations at 37.000%
+Monte Carlo iterations at 38.000%
+Monte Carlo iterations at 39.000%
+Monte Carlo iterations at 40.000%
+Monte Carlo iterations at 41.000%
+Monte Carlo iterations at 42.000%
+Monte Carlo iterations at 43.000%
+Monte Carlo iterations at 44.000%
+Monte Carlo iterations at 45.000%
+Monte Carlo iterations at 46.000%
+Monte Carlo iterations at 47.000%
+Monte Carlo iterations at 48.000%
+Monte Carlo iterations at 49.000%
+Monte Carlo iterations at 50.000%
+Monte Carlo iterations at 51.000%
