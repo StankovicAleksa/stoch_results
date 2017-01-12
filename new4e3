@@ -7,20 +7,20 @@ Test number: 1
 Time step size: 0.125
 Time-step adaptivity enabled.
 Brownian motion: continuous.
-Absolute tolerance = 0.02
-Relative tolerance = 0.02
+Absolute tolerance = 0.04
+Relative tolerance = 0.04
 ------------------------------------------------------------
 
 -----------------   Running Monte Carlo   ------------------
 ------------------------------------------------------------
 
 ----------------   Monte Carlo Statistics   ----------------
-Running Time: 14303.2487559999990481 seconds.
-Mean of f evaluations: 40.3297726883552201
-Mean of g evaluations: 28.8069805091747497
-Mean of accepted steps: 5.1666303270442411
-Mean of rejected steps: 0.5947657701746957
-E(phi(X)) = 0.7556037933007821
-Error on E(phi(X)): 0.0056037933006526
+Running Time: 9739.5166189999999915 seconds.
+Mean of f evaluations: 26.2722230145907680
+Mean of g evaluations: 18.7658736046945940
+Mean of accepted steps: 3.5577580003929068
+Mean of rejected steps: 0.1954167199387237
+E(phi(X)) = 0.7541381580012719
+Error on E(phi(X)): 0.0041381580012611
 ------------------------------------------------------------
 

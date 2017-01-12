@@ -15,12 +15,12 @@ Relative tolerance = 0.02
 ------------------------------------------------------------
 
 ----------------   Monte Carlo Statistics   ----------------
-Running Time: 14303.2487559999990481 seconds.
-Mean of f evaluations: 40.3297726883552201
-Mean of g evaluations: 28.8069805091747497
-Mean of accepted steps: 5.1666303270442411
-Mean of rejected steps: 0.5947657701746957
-E(phi(X)) = 0.7556037933007821
-Error on E(phi(X)): 0.0056037933006526
+Running Time: 14125.5116510000007111 seconds.
+Mean of f evaluations: 39.5166265858331016
+Mean of g evaluations: 28.2261618445134239
+Mean of accepted steps: 5.1728964274687925
+Mean of rejected steps: 0.4723359398117080
+E(phi(X)) = 0.7542062552524393
+Error on E(phi(X)): 0.0042062552524637
 ------------------------------------------------------------
 
